@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Possible Worlds Theory",
+    "description": "Framework describing how imagined worlds reshape social realities and empathy.",
+    "tags": ["philosophy", "possible worlds", "imagination"],
+    "vectors": {"concept": [0.9, 0.2, 0.1]},
+    "metadata": {"source": "Keltner & Stamkou, 2025"}
+  },
+  {
+    "title": "Triadic Semiosis",
+    "description": "Peircean triad linking object, representamen, and interpretant in recursive meaning loops.",
+    "tags": ["semiotics", "logic", "interpretation"],
+    "vectors": {"concept": [0.8, 0.3, 0.4]},
+    "metadata": {"source": "Atkin, 2022"}
+  },
+  {
+    "title": "Visual Tropes Library",
+    "description": "Catalog of cross-modal metaphors mapping textures, gestures, and spatial frames to emotions.",
+    "tags": ["rhetoric", "visual", "metaphor"],
+    "vectors": {"concept": [0.6, 0.5, 0.7]},
+    "metadata": {"source": "Correa, 2022"}
+  },
+  {
+    "title": "Affective Time Weaving",
+    "description": "Strategies to orchestrate audience emotions through crescendos, plateaus, and echoes.",
+    "tags": ["affect", "time", "experience"],
+    "vectors": {"concept": [0.4, 0.6, 0.8]},
+    "metadata": {"source": "Massumi, 2002"}
+  },
+  {
+    "title": "Embodied Spatial Politics",
+    "description": "Analysis of how architectural thresholds choreograph bodies and power relations.",
+    "tags": ["sociology", "space", "power"],
+    "vectors": {"concept": [0.3, 0.7, 0.5]},
+    "metadata": {"source": "Foucault, 1995"}
+  }
+]

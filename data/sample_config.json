@@ -1,0 +1,28 @@
+{
+  "query": "affective weather commons",
+  "modal_prefix": "a civic atrium where synthetic climate rituals reprogram public empathy",
+  "semiotic_focus": ["philosophy", "semiotics", "affect"],
+  "interpretant_prompts": [
+    "Trace how the artificial sun reframes civic rituals",
+    "Follow the emotional drift as bodies negotiate shared atmospheres",
+    "Map the recursive narratives people tell after leaving the installation"
+  ],
+  "tropes": {
+    "morphology": ["monochromatic mist", "mirrored canopy", "biometric sensors"],
+    "structure": ["looped procession", "counterpoint narratives", "threshold staging"],
+    "experience": ["collective inhalation", "sudden eclipse", "afterglow interviews"]
+  },
+  "affective_beats": [
+    "Entrance shiver as mist engulfs the body",
+    "Warmth swell beneath the synthetic sun",
+    "Shared pause while collective pulse is projected",
+    "Abrupt dimming triggering speculative whisper networks",
+    "Exit corridor with delayed resonance soundtrack"
+  ],
+  "references": [
+    "Eliasson, O. (2003). The Weather Project.",
+    "Massumi, B. (2002). Parables for the Virtual."
+  ],
+  "knowledge_file": "sample_knowledge.json",
+  "knowledge_limit": 4
+}
