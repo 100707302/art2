@@ -1,0 +1,37 @@
+[
+  {
+    "id": "phil-possible-worlds",
+    "discipline": "philosophy",
+    "concept": "Possible worlds as imagination engines",
+    "summary": "Imagined scenarios expose hidden structures of reality and allow speculative testing of ethics and ontology.",
+    "keywords": ["modal logic", "imagination", "counterfactual"]
+  },
+  {
+    "id": "lit-epistolary",
+    "discipline": "literature",
+    "concept": "Epistolary fragmentation",
+    "summary": "Letters and diary fragments reveal subjective truth through gaps and silences.",
+    "keywords": ["narrative fracture", "intimacy", "assemblage"]
+  },
+  {
+    "id": "psych-mirror-stage",
+    "discipline": "psychology",
+    "concept": "Mirror stage",
+    "summary": "Identity is co-produced through recognition of the self in an external image and the accompanying misalignment.",
+    "keywords": ["identity", "projection", "self/other"]
+  },
+  {
+    "id": "soc-ritual-space",
+    "discipline": "sociology",
+    "concept": "Ritualised public space",
+    "summary": "Collective gestures inscribe political meaning into seemingly neutral architectures.",
+    "keywords": ["commons", "power", "gathering"]
+  },
+  {
+    "id": "media-feedback-loops",
+    "discipline": "media studies",
+    "concept": "Feedback loops",
+    "summary": "Interactive systems alter their own conditions by incorporating audience responses as live input.",
+    "keywords": ["cybernetics", "interactivity", "emergence"]
+  }
+]

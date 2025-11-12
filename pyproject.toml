@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "art2"
+version = "0.1.0"
+description = "Conceptual art generator based on logical-semiotic scaffolds"
+readme = "README.md"
+authors = [{name = "art2 contributors"}]
+requires-python = ">=3.10"
+keywords = ["art", "concept", "semiotics", "creative tools"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Intended Audience :: Education",
+  "Topic :: Artistic Software",
+]
+
+[project.scripts]
+art2 = "art2.cli:main"
+
